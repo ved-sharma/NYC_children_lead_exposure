@@ -1,5 +1,6 @@
 # Exploratory Data Analysis in Python
 Data for children under 6 yrs of age with Elevated Blood Lead Levels (BLL) in NYC neighborhoods was analyzed.
+
 Data was downloaded from NYC OpenData website: 
 https://data.cityofnewyork.us/Health/Children-Under-6-yrs-with-Elevated-Blood-Lead-Leve/tnry-kwh5
 
