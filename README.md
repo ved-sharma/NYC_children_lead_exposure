@@ -1,7 +1,14 @@
 # Exploratory Data Analysis in Python
-Data for children under 6 yrs of age with Elevated Blood Lead Levels (BLL) in NYC neighborhoods was analyzed.  
+### The Dangers of Lead Exposure
+Children exposed to any level of lead may face serious, irreversible harm that has consequences throughout their lifetimes. Children under the age of six are at greatest risk for exposure because they explore the world through hand-to-mouth activity and because their bodies are rapidly growing and can more readily absorb lead.  Elevated blood lead levels in children can result in behavioral changes, reduced educational attainment and hearing and speech delays.
 
-Original data was downloaded from NYC OpenData website:  
+In New York City, children are required to be tested for lead poisoning at around age 1 and age 2, and to be screened for risk of lead poisoning, and tested if at risk, up until age 6. NYC through the Department of Health and Mental Hygiene publishes open-source yearly data on lead levels in children under 6 years of age. These data are an indicator of children younger that 6 years of age tested in NYC in a given year with blood lead levels of 5 mcg/dL or greater, a threshold reference level set by the CDC.
+
+### Goal
+To check trends in children with elevated Blood Lead Levels (BLL) overtime in different neighborhoods of NYC, and find out NYC neighborhoods having high proportions of children with elevelated BLL.
+
+### Brief description of the data analysis
+Original data was downloaded as a CSV file from NYC OpenData website:  
 https://data.cityofnewyork.us/Health/Children-Under-6-yrs-with-Elevated-Blood-Lead-Leve/tnry-kwh5
 
 Here is a brief description of what I did with the data:
@@ -14,7 +21,7 @@ Here is a brief description of what I did with the data:
 https://blogs.ei.columbia.edu/2017/10/09/many-backyards-in-brooklyn-neighborhood-are-contaminated-with-high-levels-of-lead/  
 https://www1.nyc.gov/assets/doh/downloads/pdf/lead/lead-2012report.pdf
 
-
+### Jupyter notebook and the plots
 
 ```python
 # Author: Ved P Sharma
@@ -255,3 +262,9 @@ with sns.color_palette('Dark2'):
 ```python
 
 ```
+### Takeaways
+The percentage of children with elevated BLL in NYC has dramtically come down over the years (2005-2016) in all boroughs of NYC. Brooklyn consistently showed the hightest BLL cases in children under the age of 6 years. In particular, Greenpoint neighborhood of Brookyn had the most cases of high BLL in children. Interestingly, my findings were corroborated by articles published in the media:  
+
+https://blogs.ei.columbia.edu/2017/10/09/many-backyards-in-brooklyn-neighborhood-are-contaminated-with-high-levels-of-lead/  
+
+https://www1.nyc.gov/assets/doh/downloads/pdf/lead/lead-2012report.pdf
