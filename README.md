@@ -1,4 +1,4 @@
-# Exploratory Data Analysis in Python
+# Exploratory Data Analysis in Python using Pandas and Seaborn
 ### The Dangers of Lead Exposure
 Children exposed to any level of lead may face serious, irreversible harm that has consequences throughout their lifetimes. Children under the age of six are at greatest risk for exposure because they explore the world through hand-to-mouth activity and because their bodies are rapidly growing and can more readily absorb lead.  Elevated blood lead levels in children can result in behavioral changes, reduced educational attainment and hearing and speech delays.
 
