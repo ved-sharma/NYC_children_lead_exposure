@@ -263,7 +263,7 @@ with sns.color_palette('Dark2'):
 
 ```
 ### Takeaways
-The percentage of children with elevated BLL in NYC has dramtically come down over the years (2005-2016) in all boroughs of NYC. Brooklyn consistently showed the hightest BLL cases in children under the age of 6 years. In particular, Greenpoint neighborhood of Brookyn had the most cases of high BLL in children. Interestingly, my findings were corroborated by articles published in the media:  
+The percentage of children with elevated BLL in NYC has dramtically come down over the years (2005-2016) in all boroughs of NYC. Brooklyn consistently showed the hightest BLL cases in children under the age of 6 years. In particular, Greenpoint neighborhood of Brooklyn had the most cases of high BLL in children. Interestingly, my findings were corroborated by articles published in the media:  
 
 https://blogs.ei.columbia.edu/2017/10/09/many-backyards-in-brooklyn-neighborhood-are-contaminated-with-high-levels-of-lead/  
 
