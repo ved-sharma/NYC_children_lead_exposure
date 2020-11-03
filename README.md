@@ -5,7 +5,7 @@ Children exposed to any level of lead may face serious, irreversible harm that h
 In New York City, children are required to be tested for lead poisoning at around age 1 and age 2, and to be screened for risk of lead poisoning, and tested if at risk, up until age 6. NYC through the Department of Health and Mental Hygiene publishes open-source yearly data on lead levels in children under 6 years of age. These data are an indicator of children younger that 6 years of age tested in NYC in a given year with blood lead levels of 5 mcg/dL or greater, a threshold reference level set by the CDC.
 
 ### Goal
-To check trends in children with elevated Blood Lead Levels (BLL) overtime in different neighborhoods of NYC, and find out NYC neighborhoods having high proportions of children with elevelated BLL.
+To check trends in children with elevated Blood Lead Levels (BLL) overtime in different neighborhoods of NYC, and find out NYC neighborhoods having high proportions of children with elevated BLL.
 
 ### Brief description of the data analysis
 Original data was downloaded as a CSV file from NYC OpenData website:  
